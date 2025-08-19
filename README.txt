@@ -1,16 +1,16 @@
 自作したキーボード配列です。
 ホームポジションから大きく手を動かすことなく、英日両方の入力、そして矢印キーや数字・記号の入力の簡易化を目標とし、制作を行いました。
 
-利用する際には、「Windows PowerShell」※　と「Auto Hot Key」の導入が必要となります。（※その他のキー入力内容を変更できるソフトウェアでの動作は未確認です）
+利用する際には、「Windows PowerToys」※　と「Auto Hot Key」の導入が必要となります。（※その他のキー入力内容を変更できるソフトウェアでの動作は未確認です）
 
-Windows PowerShell
-https://learn.microsoft.com/ja-jp/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5
+Windows PowerToys
+https://learn.microsoft.com/ja-jp/windows/powertoys/install
 
 Auto Hot Key
 https://www.autohotkey.com/
 
 利用方法
-1.Windows PowerShell　の　Keyboard Manager で下記のようにキーの再マップを行ってください。
+1.Windows PowerToys　の　Keyboard Manager で下記のようにキーの再マップを行ってください。
  VK 242 → VK 244
  R → F13
  Q → J
